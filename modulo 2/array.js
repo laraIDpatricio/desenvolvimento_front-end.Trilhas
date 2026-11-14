@@ -33,7 +33,7 @@ while (continuar === true) {
         
 
     } else if (opcao === "3") {
-        continuar = false;
+        continuar = false; 
 
     } else {
         console.log("Opção inválida! Tente novamente.");

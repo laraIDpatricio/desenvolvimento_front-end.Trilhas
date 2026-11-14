@@ -16,4 +16,4 @@ switch (opcaoEscolhida) {
     default: // O default pega tudo que não for 1, 2 ou 3 
         console.log("Opção inválida. Por favor, escolha um número do menu."); 
         break; 
-    }
+}

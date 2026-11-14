@@ -14,7 +14,7 @@ console.log("-----Perfil do jogador-----");
 console.log("Nome do jogador: ", nomeJogador);
 console.log("Time: ", equipe);
 console.log("Status do jogador: ", statusAtivo);
-console.log("Pontuação do jogador: ", pontuacao);
+console.log("Pontuação do jogador: ", pontuacao);des
 
 pontuacao += 50;
 console.log("Pontuação após a viória: ", pontuacao);
